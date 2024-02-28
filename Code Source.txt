@@ -1,0 +1,10 @@
+SINDy code by Steven L. Brunton
+For Paper, "Discovering Governing Equations from Data: 
+        Sparse Identification of Nonlinear Dynamical Systems"
+by S. L. Brunton, J. L. Proctor, and J. N. Kutz
+
+
+ER code by Abd AlRahman R. AlMomani, Jie Sun, and Erik Bollt
+For Paper, "How Entropic Regression Beats the Outliers Problem 
+	in Nonlinear System Identification."
+by Abd AlRahman R. AlMomani, Jie Sun, and Erik Bollt
